@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Olá, sou o Paulo Fernando 👋</h2>
+<h2 align="left">Hello, I'm Paulo Fernando 👋</h2>
 
 ###
 
-<p align="left">Moro em Brasília - DF<br><br>- 🔭 Dev web, infra e DevOps<br>- 📚 UnB - Engenharia de Computação<br>- ⚡ No meu tempo livre, estou tomando café ☕ e vendo vlog/daily/tips de programação</p>
+<p align="left">Living in Brasília - DF, Brazil<br><br>- 🔭 Dev web & infra & DevOps<br>- 📚 UnB - Computer Engineering<br>- ⚡ In my day off, i'm drinking coffee ☕ and watching vlog/daily/tips of programming</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📈   Meus stats:</h3>
+<h3 align="left">📈   My stats:</h3>
 
 ###
 
