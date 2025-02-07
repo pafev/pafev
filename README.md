@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Moro em Brasília - DF<br><br>- 🔭 Trabalho com desenvolvimento web, app e DevOps<br>- 📚 Atualmento estudo na UnB<br>- ⚡ No meu tempo livre, estou tomando café ☕ e vendo vídeos de 11h clonando um app ou um sistema web famoso</p>
+<p align="left">Moro em Brasília - DF<br><br>- 🔭 Trabalho com desenvolvimento web, app e DevOps<br>- 📚 Atualmento estudo na UnB<br>- ⚡ No meu tempo livre, estou tomando café ☕ e vendo vlog/daily de senior gringo programando</p>
 
 ###
 
