@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Moro em Brasília - DF<br><br>- 🔭 Dev web, infra e DevOps<br>- 📚 Atualmento estudo na UnB<br>- ⚡ No meu tempo livre, estou tomando café ☕ e vendo vlog/daily de senior gringo programando</p>
+<p align="left">Moro em Brasília - DF<br><br>- 🔭 Dev web, infra e DevOps<br>- 📚 UnB - Engenharia de Computação<br>- ⚡ No meu tempo livre, estou tomando café ☕ e vendo vlog/daily de senior gringo programando</p>
 
 ###
 
