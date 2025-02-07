@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Living in Brasília - DF, Brazil<br><br>- 🔭 Dev web & infra & DevOps<br>- 📚 UnB - Computer Engineering<br>- ⚡ In my day off, i'm drinking coffee ☕ and watching vlog/daily/tips of programming</p>
+<p align="left">Living in Brasília - DF, Brazil<br><br>- 🔭 Dev web & Infra & DevOps & Cloud Computing & Software Engineering<br>- 📚 UnB - Computer Engineering<br>- ⚡ In my day off, i'm drinking coffee ☕ and watching vlog/daily/tips of programming</p>
 
 ###
 
