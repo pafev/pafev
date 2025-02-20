@@ -19,7 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pafev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pafev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="200" alt="stats graph" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pafev&layout=compact&theme=gotham&hide_border=true"/>
 </div>
 
 ###
