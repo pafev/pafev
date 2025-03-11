@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Living in Brasília - DF, Brazil<br>- 🔭 Dev web & Infra & DevOps & Cloud Computing & Software Engineering<br>- 📚 UnB - Computer Engineering</p>
+<p align="left">Living in Brasília - DF, Brazil<br>- 🔭 Dev Full-Stack & Infra & DevOps & Cloud Computing & Software Engineering<br>- 📚 UnB - Computer Engineering</p>
 
 ###
 
