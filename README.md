@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hi, I'm Paulo Fernando 👋</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
