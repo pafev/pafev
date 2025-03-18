@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Living in Brasília - DF, Brazil<br>- 🔭 Cloud Computing & Software Engineering & Data Science & CiberSecurity<br>- 📚 UnB - Computer Engineering</p>
+<p align="left">Living in Brasília - DF, Brazil<br>- 🔭 Dev & Cloud Computing & Software Engineering & Data Science & CiberSecurity<br>- 📚 UnB - Computer Engineering</p>
 
 ###
 
