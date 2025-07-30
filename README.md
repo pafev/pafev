@@ -1,8 +1,8 @@
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="850"/>
   <img width="12" />
-</div>-->
+</div>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Living in Brasília - DF, Brazil<br>- 💻 Dev & Software Engineer<br>- 💻 Familiar with Cloud Computing & DevOps & CiberSecurity<br>- 📚 UnB - Computer Engineering</p>
+<p align="left">Living in Brasília - DF, Brazil<br>- 💻 Dev & Software Engineer & Infra Engineer<br>- 💻 Familiar with Cloud Computing & DevOps & CiberSecurity<br>- 📚 Gratuated from the University of Brasília (UnB) - Computer Engineering</p>
 
 ###
 
