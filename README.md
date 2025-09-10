@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Living in Brasília - DF, Brazil<br>- 💻 Dev & Software Engineer & Infra Engineer<br>- 💻 Familiar with Cloud Computing & DevOps & CiberSecurity<br>- 📚 UnB - Computer Engineering</p>
+<p align="left">Living in Brasília - DF, Brazil<br>- 💻 Infra Engineer & Software Engineer & Dev<br>- 💻 Familiar with Cloud Computing & DevOps & CiberSecurity<br>- 📚 UnB - Computer Engineering</p>
 
 ###
 
