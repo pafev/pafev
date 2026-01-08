@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hi, I'm Paulo, and not everything about me is here</h2>
+<h2 align="left">Hi, I'm Paulo, and almost everything about me is here</h2>
 <!-- <h2 align="left">Hi, I'm Paulo</h2> -->
 
 ###
@@ -22,6 +22,7 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pafev&hide_title=true&hide_rank=true&hide_commits=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="200" alt="stats graph" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pafev&layout=compact&theme=gotham&hide_border=true&size_weight=0.8&count_weight=0.2&hide=css,html"/>
+  <!-- <img src="https://streak-stats.demolab.com/?user=pafev"/> -->
 </div>
 
 ###
