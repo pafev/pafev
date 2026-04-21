@@ -1,6 +1,6 @@
 # Hi, I'm Paulo, and almost everything about me is here
 
-I am a **DevSecOps, Infrastructure, and Security Engineer** and a **Computer Engineering** student focused on designing, implementing, and maintaining resilient, heavily secured, and cloud infrastructures. I love understanding how things work under the hood and frequently build automation, orchestration, and security solutions from scratch.
+I am a **DevSecOps, Infrastructure, and Security Analyst** and a **Computer Engineering** student focused on designing, implementing, and maintaining resilient, heavily secured, and cloud infrastructures. I love understanding how things work under the hood and frequently build automation, orchestration, and security solutions from scratch.
 
 Living in Brasília - DF, Brazil
 
