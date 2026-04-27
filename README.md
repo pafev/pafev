@@ -1,20 +1,20 @@
 # Hi, I'm Paulo, and almost everything about me is here
 
-I am a **DevSecOps, Infrastructure, and Security Analyst** and a **Computer Engineering** student focused on designing, implementing, and maintaining resilient, heavily secured, and cloud infrastructures. I love understanding how things work under the hood and frequently build automation, orchestration, and security solutions from scratch.
+<!-- I am a **DevSecOps, Infrastructure, and Security Analyst** and a **Computer Engineering** student focused on designing, implementing, and maintaining resilient, heavily secured, and cloud infrastructures. I love understanding how things work under the hood and frequently build automation, orchestration, and security solutions from scratch. -->
 
 Living in Brasília - DF, Brazil
 
 ### 🛠️ My Stack and Tools
 
 * **Languages:** Go, Python, C#, Shell Script, SQL, Linux tools, Helm Templates language, GitHub Actions language, Dockerfile language, ...
-* **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Quarantine Environments, netcat, go-buster, nmap, ...
-* **Orchestration & Containers:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform
+* **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
+* **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform, Ansible, Kafka
 * **Cloud Providers:** DigitalOcean, AWS, Azure, Magalu Cloud
-* **Databases:** PostgreSQL, ClickHouse, S3/Object Storage, Redis, ...
+* **Databases:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
 * **Observability:** Prometheus, Grafana, Events Exporter, AIOps
 
 ### 💡 Work Philosophy
-I believe in true Infrastructure as Code, where the architecture is documented, versioned, and easily replicable across any cloud provider, free from vendor lock-in. From data anonymization in staging environments to enforcing encryption and traffic isolation, I believe that security is not an afterthought, but the foundation of any reliable infrastructure. 
+I value true Infrastructure as Code, where the architecture is documented, versioned, and easily replicable across any cloud provider, free from vendor lock-in. From data anonymization in staging environments to enforcing encryption and traffic isolation, I believe that security is not an afterthought, but the foundation of any reliable infrastructure. 
 
 ---
 *Feel free to explore my repositories and get in touch!*
