@@ -7,7 +7,7 @@ Living in Brasília - DF, Brazil
 ### 🛠️ My Stack and Tools
 
 * **Languages:** Go, Python, C#, Shell Script, SQL, Linux tools, Helm Templates language, GitHub Actions language, Dockerfile language, ...
-* **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
+* **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, IAM, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
 * **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform, Ansible, Kafka
 * **Cloud Providers:** DigitalOcean, AWS, Azure, Magalu Cloud
 * **Databases:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
