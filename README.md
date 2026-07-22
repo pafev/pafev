@@ -11,7 +11,7 @@ Living in Brasília - DF, Brazil
 * **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform, Ansible, Kafka
 * **Cloud Providers:** DigitalOcean, AWS, Azure, Magalu Cloud
 * **Databases:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
-* **Observability:** Prometheus, Grafana, Events Exporter, AIOps
+* **Observability:** Prometheus, Grafana, k8s Events Exporter, AIOps
 
 ### 💡 Work Philosophy
 I value true Infrastructure as Code, where the architecture is documented, versioned, and easily replicable across any cloud provider, free from vendor lock-in. From data anonymization in staging environments to enforcing encryption and traffic isolation, I believe that security is not an afterthought, but the foundation of any reliable infrastructure. 
