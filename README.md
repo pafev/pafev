@@ -4,7 +4,7 @@
 
 Living in Brasília - DF, Brazil
 
-### 🛠️ My Stack and Tools
+### 🛠️ My Technologies and Tools Domain
 
 * **Languages:** Go, Python, C#, Shell Script, SQL, Linux tools, Helm Templates language, GitHub Actions language, Dockerfile language, ...
 * **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, IAM, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
