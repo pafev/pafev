@@ -8,10 +8,10 @@ Living in Brasília - DF, Brazil
 
 * **Languages:** Go, Python, C#, Shell Script, SQL, Linux tools, Helm Templates language, GitHub Actions language, Dockerfile language, ...
 * **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, IAM, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
-* **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform, Ansible, Kafka, K6
+* **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, ArgoCD, Docker, Docker Bake, Terraform, Ansible, K6
 * **Cloud Providers:** DigitalOcean, AWS, Azure, Magalu Cloud
 * **Databases & Storage:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
-* **Observability:** Prometheus, Grafana, k8s Events Exporter, AIOps
+* **Observability:** Prometheus, OpenTelemetry, Loki, Tempo, Grafana, AIOps
 
 ### 💡 Work Philosophy
 I value true Infrastructure as Code, where the architecture is documented, versioned, and easily replicable across any cloud provider, free from vendor lock-in. From data anonymization in staging environments to enforcing encryption and traffic isolation, I believe that security is not an afterthought, but the foundation of any reliable infrastructure. 
