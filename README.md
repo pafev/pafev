@@ -10,7 +10,7 @@ Living in Brasília - DF, Brazil
 * **Security (DevSecOps):** Sealed Secrets, GPG, Network Security & Traffic Analysis, Network Policies, Quarantine Environments, IAM, OWASP, Offensive Security Analysis (netcat, gobuster, nmap, privilege escalation, ...)
 * **Orchestration & Containers & Infrastructure:** Kubernetes, Helm, Kustomize, ArgoCD (GitOps), Docker, Docker Bake, Terraform, Ansible, Kafka, K6
 * **Cloud Providers:** DigitalOcean, AWS, Azure, Magalu Cloud
-* **Databases:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
+* **Databases & Storage:** PostgreSQL, ClickHouse, S3/Object Storage, Redis
 * **Observability:** Prometheus, Grafana, k8s Events Exporter, AIOps
 
 ### 💡 Work Philosophy
